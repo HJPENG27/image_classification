@@ -1,3 +1,4 @@
 # image_classification
 
-Basic MLP and CNN.
+MLP: MNIST, Fashion_MNIST. 
+SimpleCNN: cifar10 dataset.
